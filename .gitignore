@@ -386,3 +386,55 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
+# dependencies
+# User-specific files
+/node_modules
+*.rsuser
+/.pnp
+*.suo
+.pnp.js
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# testing
+# User-specific files (MonoDevelop/Xamarin Studio)
+/coverage
+*.userprefs
+
+
+# production
+# Mono auto generated files
+/build
+mono_crash.*
+
+
+# misc
+# Build results
+.DS_Store
+[Dd]ebug/
+.env.local
+[Dd]ebugPublic/
+.env.development.local
+[Rr]elease/
+.env.test.local
+[Rr]eleases/
+.env.production.local
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+
+npm-debug.log*
+# Visual Studio 2015/2017 cache/options directory
+yarn-debug.log*
+.vs/
+yarn-error.log*
